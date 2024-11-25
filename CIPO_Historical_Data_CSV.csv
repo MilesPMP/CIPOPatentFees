@@ -1,0 +1,64 @@
+﻿Type,Size,Year,Amount
+Application fee,Small,2020 fee, $200.00
+Application fee,Small,2021 fee, $204.00
+Application fee,Small,2022 fee, $203.59
+Application fee,Small,2023 fee, $210.51
+Application fee,Regular,2020 fee, $400.00
+Application fee,Regular,2021 fee, $408.00
+Application fee,Regular,2022 fee, $407.18
+Application fee,Regular,2023 fee, $421.02
+Late Fee,All,2020 fee, $150.00
+Late Fee,All,2021 fee, $150.00
+Late Fee,All,2022 fee, $150.00
+Late Fee,All,2023 fee, $150.00
+MFee 2nd - 4th ,Small,2020 fee, $50.00
+MFee 2nd - 4th ,Small,2021 fee, $50.00
+MFee 2nd - 4th ,Small,2022 fee, $50.00
+MFee 2nd - 4th ,Small,2023 fee, $50.00
+MFee 2nd - 4th ,Regular,2020 fee, $100.00
+MFee 2nd - 4th ,Regular,2021 fee, $100.00
+MFee 2nd - 4th ,Regular,2022 fee, $100.00
+MFee 2nd - 4th ,Regular,2023 fee, $100.00
+MFee 5th - 9th ,Small,2020 fee, $100.00
+MFee 5th - 9th ,Small,2021 fee, $100.00
+MFee 5th - 9th ,Small,2022 fee, $100.00
+MFee 5th - 9th ,Small,2023 fee, $100.00
+MFee 5th - 9th ,Regular,2020 fee, $200.00
+MFee 5th - 9th ,Regular,2021 fee, $204.00
+MFee 5th - 9th ,Regular,2022 fee, $203.59
+MFee 5th - 9th ,Regular,2023 fee, $210.51
+MFee 10th - 14th ,Small,2020 fee, $125.00
+MFee 10th - 14th ,Small,2021 fee, $125.00
+MFee 10th - 14th ,Small,2022 fee, $125.00
+MFee 10th - 14th ,Small,2023 fee, $125.00
+MFee 10th - 14th ,Regular,2020 fee, $250.00
+MFee 10th - 14th ,Regular,2021 fee, $255.00
+MFee 10th - 14th ,Regular,2022 fee, $254.49
+MFee 10th - 14th ,Regular,2023 fee, $263.14
+MFee 15th - 19th ,Small,2020 fee, $225.00
+MFee 15th - 19th ,Small,2021 fee, $229.50
+MFee 15th - 19th ,Small,2022 fee, $229.04
+MFee 15th - 19th ,Small,2023 fee, $236.83
+MFee 15th - 19th ,Regular,2020 fee, $450.00
+MFee 15th - 19th ,Regular,2021 fee, $459.00
+MFee 15th - 19th ,Regular,2022 fee, $458.08
+MFee 15th - 19th ,Regular,2023 fee, $473.65
+Request for exam - CIPO as ISA,Small,2020 fee, $100.00
+Request for exam - CIPO as ISA,Small,2021 fee, $100.00
+Request for exam - CIPO as ISA,Small,2022 fee, $100.00
+Request for exam - CIPO as ISA,Small,2023 fee, $100.00
+Request for exam - CIPO as ISA,Regular,2020 fee, $200.00
+Request for exam - CIPO as ISA,Regular,2021 fee, $204.00
+"Request for exam - CIPO as ISA - if received before October 3, 2022",Regular,2022a fee, $203.59
+"Request for exam - CIPO as ISA - if received on or after October 3, 2022",Regular,2022b fee, $204.00
+Request for exam - CIPO as ISA,Regular,2023 fee, $204.00
+Request for exam - All other cases,Small,2020 fee, $400.00
+Request for exam - All other cases,Small,2021 fee, $408.00
+"Request for exam - All other cases - if received before October 3, 2022",Small,2022a fee, $407.18
+"Request for exam - All other cases - if received on or after October 3, 2022",Small,2022b fee, $408.00
+Request for exam - All other cases,Small,2023 fee, $408.00
+Request for exam - All other cases,Regular,2020 fee, $800.00
+Request for exam - All other cases,Regular,2021 fee, $816.00
+"Request for exam - All other cases - if received before October 3, 2022",Regular,2022a fee, $814.37
+"Request for exam - All other cases - if received on or after October 3, 2022",Regular,2022b fee, $816.00
+Request for exam - All other cases,Regular,2023 fee, $816.00
