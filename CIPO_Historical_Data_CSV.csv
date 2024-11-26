@@ -1,64 +1,154 @@
-ï»¿Type,Size,Year,Amount
-Application fee,Small,2020 fee,Â $200.00
-Application fee,Small,2021 fee,Â $204.00
-Application fee,Small,2022 fee,Â $203.59
-Application fee,Small,2023 fee,Â $210.51
-Application fee,Regular,2020 fee,Â $400.00
-Application fee,Regular,2021 fee,Â $408.00
-Application fee,Regular,2022 fee,Â $407.18
-Application fee,Regular,2023 fee,Â $421.02
-Late Fee,All,2020 fee,Â $150.00
-Late Fee,All,2021 fee,Â $150.00
-Late Fee,All,2022 fee,Â $150.00
-Late Fee,All,2023 fee,Â $150.00
-MFee 2nd - 4th ,Small,2020 fee,Â $50.00
-MFee 2nd - 4th ,Small,2021 fee,Â $50.00
-MFee 2nd - 4th ,Small,2022 fee,Â $50.00
-MFee 2nd - 4th ,Small,2023 fee,Â $50.00
-MFee 2nd - 4th ,Regular,2020 fee,Â $100.00
-MFee 2nd - 4th ,Regular,2021 fee,Â $100.00
-MFee 2nd - 4th ,Regular,2022 fee,Â $100.00
-MFee 2nd - 4th ,Regular,2023 fee,Â $100.00
-MFee 5th - 9th ,Small,2020 fee,Â $100.00
-MFee 5th - 9th ,Small,2021 fee,Â $100.00
-MFee 5th - 9th ,Small,2022 fee,Â $100.00
-MFee 5th - 9th ,Small,2023 fee,Â $100.00
-MFee 5th - 9th ,Regular,2020 fee,Â $200.00
-MFee 5th - 9th ,Regular,2021 fee,Â $204.00
-MFee 5th - 9th ,Regular,2022 fee,Â $203.59
-MFee 5th - 9th ,Regular,2023 fee,Â $210.51
-MFee 10th - 14th ,Small,2020 fee,Â $125.00
-MFee 10th - 14th ,Small,2021 fee,Â $125.00
-MFee 10th - 14th ,Small,2022 fee,Â $125.00
-MFee 10th - 14th ,Small,2023 fee,Â $125.00
-MFee 10th - 14th ,Regular,2020 fee,Â $250.00
-MFee 10th - 14th ,Regular,2021 fee,Â $255.00
-MFee 10th - 14th ,Regular,2022 fee,Â $254.49
-MFee 10th - 14th ,Regular,2023 fee,Â $263.14
-MFee 15th - 19th ,Small,2020 fee,Â $225.00
-MFee 15th - 19th ,Small,2021 fee,Â $229.50
-MFee 15th - 19th ,Small,2022 fee,Â $229.04
-MFee 15th - 19th ,Small,2023 fee,Â $236.83
-MFee 15th - 19th ,Regular,2020 fee,Â $450.00
-MFee 15th - 19th ,Regular,2021 fee,Â $459.00
-MFee 15th - 19th ,Regular,2022 fee,Â $458.08
-MFee 15th - 19th ,Regular,2023 fee,Â $473.65
-Request for exam - CIPO as ISA,Small,2020 fee,Â $100.00
-Request for exam - CIPO as ISA,Small,2021 fee,Â $100.00
-Request for exam - CIPO as ISA,Small,2022 fee,Â $100.00
-Request for exam - CIPO as ISA,Small,2023 fee,Â $100.00
-Request for exam - CIPO as ISA,Regular,2020 fee,Â $200.00
-Request for exam - CIPO as ISA,Regular,2021 fee,Â $204.00
-"Request for exam - CIPO as ISA - if received before October 3, 2022",Regular,2022a fee,Â $203.59
-"Request for exam - CIPO as ISA - if received on or after October 3, 2022",Regular,2022b fee,Â $204.00
-Request for exam - CIPO as ISA,Regular,2023 fee,Â $204.00
-Request for exam - All other cases,Small,2020 fee,Â $400.00
-Request for exam - All other cases,Small,2021 fee,Â $408.00
-"Request for exam - All other cases - if received before October 3, 2022",Small,2022a fee,Â $407.18
-"Request for exam - All other cases - if received on or after October 3, 2022",Small,2022b fee,Â $408.00
-Request for exam - All other cases,Small,2023 fee,Â $408.00
-Request for exam - All other cases,Regular,2020 fee,Â $800.00
-Request for exam - All other cases,Regular,2021 fee,Â $816.00
-"Request for exam - All other cases - if received before October 3, 2022",Regular,2022a fee,Â $814.37
-"Request for exam - All other cases - if received on or after October 3, 2022",Regular,2022b fee,Â $816.00
-Request for exam - All other cases,Regular,2023 fee,Â $816.00
+Type	Size	Year	Amount
+Application fee	Small	2020 fee	 $200.00
+Application fee	Small	2021 fee	 $204.00
+Application fee	Small	2022 fee	 $203.59
+Application fee	Small	2023 fee	 $210.51
+Application fee	Small	2024 fee	 $225.00
+Application fee	Small	2025 fee	 $234.90
+Application fee	Standard	2020 fee	 $400.00
+Application fee	Standard	2021 fee	 $408.00
+Application fee	Standard	2022 fee	 $407.18
+Application fee	Standard	2023 fee	 $421.02
+Application fee	Standard	2024 fee	 $555.00
+Application fee	Standard	2025 fee	 $579.42
+Late Fee	All	2020 fee	 $150.00
+Late Fee	All	2021 fee	 $150.00
+Late Fee	All	2022 fee	 $150.00
+Late Fee	All	2023 fee	 $150.00
+Late Fee	All	2024 fee	 $150.00
+Late Fee	All	2025 fee	 $150.00
+MFee 2nd - 4th	Small	2020 fee	 $50.00
+MFee 2nd - 4th	Small	2021 fee	 $50.00
+MFee 2nd - 4th	Small	2022 fee	 $50.00
+MFee 2nd - 4th	Small	2023 fee	 $50.00
+MFee 2nd - 4th	Small	2024 fee	 $56.21
+MFee 2nd - 4th	Small	2025 fee	 $58.68
+MFee 2nd - 4th	Standard	2020 fee	 $100.00
+MFee 2nd - 4th	Standard	2021 fee	 $100.00
+MFee 2nd - 4th	Standard	2022 fee	 $100.00
+MFee 2nd - 4th	Standard	2023 fee	 $100.00
+MFee 2nd - 4th	Standard	2024 fee	 $125.00
+MFee 2nd - 4th	Standard	2025 fee	 $130.50
+MFee 5th - 9th	Small	2020 fee	 $100.00
+MFee 5th - 9th	Small	2021 fee	 $100.00
+MFee 5th - 9th	Small	2022 fee	 $100.00
+MFee 5th - 9th	Small	2023 fee	 $100.00
+MFee 5th - 9th	Small	2024 fee	 $100.00
+MFee 5th - 9th	Small	2025 fee	 $104.40
+MFee 5th - 9th	Standard	2020 fee	 $200.00
+MFee 5th - 9th	Standard	2021 fee	 $204.00
+MFee 5th - 9th	Standard	2022 fee	 $203.59
+MFee 5th - 9th	Standard	2023 fee	 $210.51
+MFee 5th - 9th	Standard	2024 fee	 $277.00
+MFee 5th - 9th	Standard	2025 fee	 $289.19
+MFee 10th - 14th	Small	2020 fee	 $125.00
+MFee 10th - 14th	Small	2021 fee	 $125.00
+MFee 10th - 14th	Small	2022 fee	 $125.00
+MFee 10th - 14th	Small	2023 fee	 $125.00
+MFee 10th - 14th	Small	2024 fee	 $125.00
+MFee 10th - 14th	Small	2025 fee	 $130.50
+MFee 10th - 14th	Standard	2020 fee	 $250.00
+MFee 10th - 14th	Standard	2021 fee	 $255.00
+MFee 10th - 14th	Standard	2022 fee	 $254.49
+MFee 10th - 14th	Standard	2023 fee	 $263.14
+MFee 10th - 14th	Standard	2024 fee	 $347.00
+MFee 10th - 14th	Standard	2025 fee	 $362.27
+MFee 15th - 19th	Small	2020 fee	 $225.00
+MFee 15th - 19th	Small	2021 fee	 $229.50
+MFee 15th - 19th	Small	2022 fee	 $229.04
+MFee 15th - 19th	Small	2023 fee	 $236.83
+MFee 15th - 19th	Small	2024 fee	 $253.00
+MFee 15th - 19th	Small	2025 fee	 $264.13
+MFee 15th - 19th	Standard	2020 fee	 $450.00
+MFee 15th - 19th	Standard	2021 fee	 $459.00
+MFee 15th - 19th	Standard	2022 fee	 $458.08
+MFee 15th - 19th	Standard	2023 fee	 $473.65
+MFee 15th - 19th	Standard	2024 fee	 $624.00
+MFee 15th - 19th	Standard	2025 fee	 $651.46
+Request for exam - CIPO as ISA	Small	2020 fee	 $100.00
+Request for exam - CIPO as ISA	Small	2021 fee	 $100.00
+Request for exam - CIPO as ISA	Small	2022 fee	 $100.00
+Request for exam - CIPO as ISA	Small	2023 fee	 $100.00
+Request for exam - CIPO as ISA	Small	2024 fee	 $110.00
+Request for exam - CIPO as ISA	Small	2025 fee	 $114.84
+Request for exam - CIPO as ISA	Standard	2020 fee	 $200.00
+Request for exam - CIPO as ISA	Standard	2021 fee	 $204.00
+"Request for exam - CIPO as ISA - if received before October 3, 2022"	Standard	2022a fee	 $203.59
+"Request for exam - CIPO as ISA - if received on or after October 3, 2022"	Standard	2022b fee	 $204.00
+Request for exam - CIPO as ISA	Standard	2023 fee	 $204.00
+Request for exam - CIPO as ISA	Standard	2024 fee	 $277.00
+Request for exam - CIPO as ISA	Standard	2025 fee	 $289.19
+Request for exam - All other cases	Small	2020 fee	 $400.00
+Request for exam - All other cases	Small	2021 fee	 $408.00
+"Request for exam - All other cases - if received before October 3, 2022"	Small	2022a fee	 $407.18
+"Request for exam - All other cases - if received on or after October 3, 2022"	Small	2022b fee	 $408.00
+Request for exam - All other cases	Small	2023 fee	 $408.00
+"Request for exam - All other cases - if received on or after October 3, 2022"	Small	2024 fee	 $450.00
+Request for exam - All other cases	Small	2025 fee	 $469.80
+Request for exam - All other cases	Standard	2020 fee	 $800.00
+Request for exam - All other cases	Standard	2021 fee	 $816.00
+"Request for exam - All other cases - if received before October 3, 2022"	Standard	2022a fee	 $814.37
+"Request for exam - All other cases - if received on or after October 3, 2022"	Standard	2022b fee	 $816.00
+Request for exam - All other cases	Standard	2023 fee	 $816.00
+"Request for exam - All other cases - if received on or after October 3, 2022"	Standard	2024 fee	" $1,110.00"
+Request for exam - All other cases	Standard	2025 fee	" $1,158.84"
+Fee or each claim in excess of 20 that is included in the application	Small	2022b fee	 $50.00
+Fee or each claim in excess of 20 that is included in the application	Small	2023 fee	 $50.00
+Fee or each claim in excess of 20 that is included in the application	Small	2024 fee	 $55.00
+Fee or each claim in excess of 20 that is included in the application	Small	2025 fee	 $57.42
+Fee or each claim in excess of 20 that is included in the application	Standard	2022b fee	 $50.00
+Fee or each claim in excess of 20 that is included in the application	Standard	2023 fee	 $50.00
+Fee or each claim in excess of 20 that is included in the application	Standard	2024 fee	 $110.00
+Fee or each claim in excess of 20 that is included in the application	Standard	2025 fee	 $114.84
+Fee to advance an application for a patent out of its routine order	All	2020 fee	 $500.00
+Fee to advance an application for a patent out of its routine order	All	2021 fee	 $510.00
+Fee to advance an application for a patent out of its routine order	All	2022 fee	 $508.98
+Fee to advance an application for a patent out of its routine order	All	2023 fee	 $526.29
+Fee to advance an application for a patent out of its routine order	All	2024 fee	 $694.00
+Fee to advance an application for a patent out of its routine order	All	2025 fee	 $724.54
+Fee for continued examination of an application	Small	2022b fee	 $408.00
+Fee for continued examination of an application	Small	2023 fee	 $408.00
+Fee for continued examination of an application	Small	2024 fee	 $450.00
+Fee for continued examination of an application	Small	2025 fee	 $469.80
+Fee for continued examination of an application	Standard	2022b fee	 $816.00
+Fee for continued examination of an application	Standard	2023 fee	 $816.00
+Fee for continued examination of an application	Standard	2024 fee	" $1,110.00"
+Fee for continued examination of an application	Standard	2025 fee	" $1,158.84"
+Final Fee - Basic	Small	2020 fee	 $150.00
+Final Fee - Basic	Small	2021 fee	 $153.00
+"Final Fee - Basic - if received before October 3, 2022"	Small	2022a fee	 $152.69
+"Final Fee - Basic - if received on or after October 3, 2022"	Small	2022b fee	 $153.00
+Final Fee - Basic	Small	2023 fee	 $153.00
+Final Fee - Basic	Small	2024 fee	 $169.00
+Final Fee - Basic	Small	2025 fee	 $176.44
+Final Fee - Basic	Standard	2020 fee	 $300.00
+Final Fee - Basic	Standard	2021 fee	 $306.00
+"Final Fee - Basic - if received before October 3, 2022"	Standard	2022a fee	 $305.39
+"Final Fee - Basic - if received on or after October 3, 2022"	Standard	2022b fee	 $306.00
+Final Fee - Basic	Standard	2023 fee	 $306.00
+Final Fee - Basic	Standard	2024 fee	 $416.00
+Final Fee - Basic	Standard	2025 fee	 $434.30
+"Final Fee - For each page of specification and drawings, other than pages of a sequence listing submitted in electronic form, in excess of 100 pages"	All	2020 fee	 $6.00
+"Final Fee - For each page of specification and drawings, other than pages of a sequence listing submitted in electronic form, in excess of 100 pages"	All	2021 fee	 $6.12
+"Final Fee - For each page of specification and drawings, other than pages of a sequence listing submitted in electronic form, in excess of 100 pages"	All	2022a fee	 $6.11
+"Final Fee - For each page of specification and drawings, other than pages of a sequence listing submitted in electronic form, in excess of 100 pages"	All	2022b fee	 $6.12
+"Final Fee - For each page of specification and drawings, other than pages of a sequence listing submitted in electronic form, in excess of 100 pages"	All	2023 fee	 $6.12
+"Final Fee - For each page of specification and drawings, other than pages of a sequence listing submitted in electronic form, in excess of 100 pages"	All	2024 fee	 $8.00
+"Final Fee - For each page of specification and drawings, other than pages of a sequence listing submitted in electronic form, in excess of 100 pages"	All	2025 fee	 $8.35
+Final Fee - Fee for each claim in excess of 20 included in the application in respect of which the fee set out in paragraph 10(b) of the Patent Rules was not paid	Small	2022b fee	 $50.00
+Final Fee - Fee for each claim in excess of 20 included in the application in respect of which the fee set out in paragraph 10(b) of the Patent Rules was not paid	Small	2023 fee	 $50.00
+Final Fee - Fee for each claim in excess of 20 included in the application in respect of which the fee set out in paragraph 10(b) of the Patent Rules was not paid	Small	2024 fee	 $55.00
+Final Fee - Fee for each claim in excess of 20 included in the application in respect of which the fee set out in paragraph 10(b) of the Patent Rules was not paid	Small	2025 fee	 $57.42
+Final Fee - Fee for each claim in excess of 20 included in the application in respect of which the fee set out in paragraph 10(b) of the Patent Rules was not paid	Standard	2022b fee	 $100.00
+Final Fee - Fee for each claim in excess of 20 included in the application in respect of which the fee set out in paragraph 10(b) of the Patent Rules was not paid	Standard	2023 fee	 $100.00
+Final Fee - Fee for each claim in excess of 20 included in the application in respect of which the fee set out in paragraph 10(b) of the Patent Rules was not paid	Standard	2024 fee	 $110.00
+Final Fee - Fee for each claim in excess of 20 included in the application in respect of which the fee set out in paragraph 10(b) of the Patent Rules was not paid	Standard	2025 fee	 $114.84
+Fee for a notice of allowance to be withdrawn and for an application for a patent to be subject to further examination	All	2020 fee	 $400.00
+Fee for a notice of allowance to be withdrawn and for an application for a patent to be subject to further examination	All	2021 fee	 $408.00
+Fee for a notice of allowance to be withdrawn and for an application for a patent to be subject to further examination	All	2022a fee	 $407.18
+"Fees for reinstatement of an application deemed to be abandoned, in respect of each failure to take action referred to in the request for reinstatement"	All	2020 fee	 $200.00
+"Fees for reinstatement of an application deemed to be abandoned, in respect of each failure to take action referred to in the request for reinstatement"	All	2021 fee	 $204.00
+"Fees for reinstatement of an application deemed to be abandoned, in respect of each failure to take action referred to in the request for reinstatement"	All	2022 fee	 $203.59
+"Fees for reinstatement of an application deemed to be abandoned, in respect of each failure to take action referred to in the request for reinstatement"	All	2023 fee	 $210.51
+"Fees for reinstatement of an application deemed to be abandoned, in respect of each failure to take action referred to in the request for reinstatement"	All	2024 fee	 $277.00
+"Fees for reinstatement of an application deemed to be abandoned, in respect of each failure to take action referred to in the request for reinstatement"	All	2025 fee	 $289.19
